@@ -44,7 +44,9 @@ php artisan serve
 
 6. Go to http://127.0.0.1:8000
 
-May be you see proposal to generate Application Key. Click this button
+If error because application key - run:
+
+php artisan key:generate
 
 7. Enjoy!
 
